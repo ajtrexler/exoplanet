@@ -5,7 +5,7 @@ Presented below is a simple exploratory analysis of the Open Exoplanet Catalogue
 Here's my [kernel](https://www.kaggle.com/atrexler/d/mrisdal/open-exoplanet-catalogue/where-should-we-go-v2) on Kaggle with more description of each step of the code.
 
 
-![figure1](https://gitlab.com/atrexler/exoplanets/raw/master/exo_figure2.png)
+![figure1](https://raw.githubusercontent.com/ajtrexler/exoplanet/master/exo_figure2.png)
 
 
 
